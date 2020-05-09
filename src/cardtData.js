@@ -1,0 +1,58 @@
+const cartsData = [
+  {
+    id: 1,
+    img: "./img/image.jpg",
+    cartTitle: 'Пицца плюс',
+    cartTag: '50 мин',
+    price: 'От 900руб',
+    category: 'Пицца',
+    rating: '4.5',
+  },
+  {
+    id: 2,
+    img: "./img/image2.jpg",
+    cartTitle: 'Паста ',
+    cartTag: '60 мин',
+    price: 'От 500руб',
+    category: 'Паста',
+    rating: '4.6',
+  },
+  {
+    id: 3,
+    img: "./img/image.jpg",
+    cartTitle: 'Пицца плюс',
+    cartTag: '50 мин',
+    price: 'От 900руб',
+    category: 'Пицца',
+    rating: '4.5',
+  },
+  {
+    id: 4,
+    img: "./img/image.jpg",
+    cartTitle: 'Пицца плюс',
+    cartTag: '50 мин',
+    price: 'От 900руб',
+    category: 'Пицца',
+    rating: '4.5',
+  },
+  {
+    id: 5,
+    img: "./img/image.jpg",
+    cartTitle: 'Пицца плюс',
+    cartTag: '50 мин',
+    price: 'От 900руб',
+    category: 'Пицца',
+    rating: '4.5',
+  },
+  {
+    id: 6,
+    img: "./img/image.jpg",
+    cartTitle: 'Пицца плюс',
+    cartTag: '50 мин',
+    price: 'От 900руб',
+    category: 'Пицца',
+    rating: '4.5',
+  },
+]
+
+export default cartsData;
